@@ -1,5 +1,5 @@
 # TO-DO-List Project
-This project is a simple to-do list application.
+This project is a simple to-do list application using HTML, CSS and Javascript.
 
 ## Features:
 
