@@ -11,10 +11,10 @@
     padding: 10px;
 }
 .todo-app {
-    width: 70%;
+    width: 100%;
     max-width: 540px;
     background: #fff;
-    margin: 5px auto;
+    margin: 100px auto 20px;
     padding: 40px 30px 70px;
     border-radius: 10px;
 }
@@ -32,9 +32,11 @@
     align-items: center;
     justify-content: space-between;
     background: #edeef0;
+    border: 2px solid #ff5945;
     border-radius: 30px;
     padding-left: 20px;
     margin-bottom: 25px;
+    
 }
 input{
     flex: 1;
